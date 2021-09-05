@@ -10,7 +10,7 @@ Following tasks can be performed on the system
 3.purchase can be done 
 4.record of all the trasactions are stored using the my_record.JSON file 
 
-I have added five features per product as follows
+I have added five features per product as follows\n
 1)Name
 2)Price
 3)Quantity
