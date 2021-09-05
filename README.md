@@ -12,7 +12,7 @@ This project was done during ETG AI/ML Internship
 
 1.New inventory can be added
 
-2.chages can be made to existing inventory
+2.changes can be made to existing inventory
 
 3.purchase can be done 
 
