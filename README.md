@@ -1,4 +1,4 @@
-# inventory_managment_system_project using json and python
+#### inventory_managment_system_project using json and python
 
 
 This repository is having all the codes with json files form making an inventory managment system during ETG AI/ML Internship
@@ -6,7 +6,7 @@ This repository is having all the codes with json files form making an inventory
 I've made an inventory managment system which is working on Nosql based database.I have used JSON file system for it
 
 
-Following tasks can be performed on the system
+#### Following tasks can be performed on the system
 
 1.New inventory can be added
 
@@ -17,7 +17,7 @@ Following tasks can be performed on the system
 4.record of all the trasactions are stored using the my_record.JSON file 
 
 
-I have added five features per product as follows
+#### I have added five features per product as follows
 
 1)Name
 
@@ -29,7 +29,8 @@ I have added five features per product as follows
 
 5)Manufacture date
 
-My Project can perform the following tasks
+
+#### My Project can perform the following tasks
 
 1.Generating Bills
 
@@ -41,4 +42,5 @@ My Project can perform the following tasks
 
 5.I have also included features such that it asks the user to reenter the quantity if the quantity of the product entered by the user is more than that of quantity available in the inventory
 
-Thank you for reading!!!!!!
+
+#### Thank you for reading!!!!!!
