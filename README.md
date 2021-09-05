@@ -40,11 +40,11 @@ This project was done during ETG AI/ML Internship
 
 3.purchases certian product in inventory
 
-4.Add items to inventory or update existing items
+4.Add items to inventory
 
 5.I have also included features such that it asks the user to reenter the quantity if the quantity of the product entered by the user is more than that of quantity available in the inventory
 
-6.keep record of all the transcations in separate json file
+6.keeps record of all the transcations in separate json file
 
 
 #### Thank you for reading!!!!!!
